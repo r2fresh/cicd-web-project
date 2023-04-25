@@ -8,6 +8,7 @@
     <h1>Hi, there (updated by dowon)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.0</h3>
-    <div>김상열</div>
+    <div>kimsangyoul</div>
+    <div>r2fresh</div>
 </body>
 </html>
